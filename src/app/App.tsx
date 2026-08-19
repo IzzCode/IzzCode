@@ -1,6 +1,5 @@
 import { Navbar } from "./components/navbar";
 import { HeroSection } from "./components/hero-section";
-import { SummarySection } from "./components/summary-section";
 import { OverviewSection } from "./components/overview-section";
 import { EducationSection } from "./components/education-section";
 import { WorkExperienceSection } from "./components/work-experience-section";
@@ -15,7 +14,6 @@ export default function App() {
       <Navbar />
       <main>
         <HeroSection />
-        <SummarySection />
         <OverviewSection />
         <EducationSection />
         <WorkExperienceSection />

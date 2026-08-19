@@ -10,7 +10,6 @@ export function Navbar() {
   };
 
   const navItems = [
-    { label: "Summary", id: "summary" },
     { label: "Overview", id: "overview" },
     { label: "Education", id: "education" },
     { label: "Work", id: "work" },
